@@ -6,4 +6,4 @@ Simple UI for cloud storage app.
 
 ===> The following are screenshots of UI:
 
-<img src="https://user-images.githubusercontent.com/93790564/147902061-17f1dab8-7f46-4855-af34-21f2db2408d5.jpg" width="300" height="500"/>
+<img src="https://user-images.githubusercontent.com/93790564/147902061-17f1dab8-7f46-4855-af34-21f2db2408d5.jpg" width="300" height="550"/>
