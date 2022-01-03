@@ -1,16 +1,9 @@
 # ui3
 
-A new Flutter application.
+Simple UI for cloud storage app.
 
-## Getting Started
+===> screen recording of UI: https://youtu.be/D7YU8KO2x3E
 
-This project is a starting point for a Flutter application.
+===> The following are screenshots of UI:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="![Screenshot_2022-01-03-07-20-17-233_com example ui3](https://user-images.githubusercontent.com/93790564/147902061-17f1dab8-7f46-4855-af34-21f2db2408d5.jpg)" width="100" height="100"/>
